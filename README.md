@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @JavaReni
+- 😈 Aka, Java Renegade
 - 👀 I’m interested in Game and 3D Model Development
 - 🌱 I’m currently learning markup languages, Blender and the Source Engine
 - 💞️ I’m looking to collaborate on video games!
