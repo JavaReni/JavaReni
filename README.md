@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on video games!
 - 📫 How to reach me ... UHHH
 - 😄 Pronouns: She/Her 🏳️‍⚧️
-- ⚡ Fun fact: I like video games, wrestling and my wife!
+- ⚡ Fun fact: I like video games, wrestling and my wife (Cherry)!
 
 <!---
 JavaReni/JavaReni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
